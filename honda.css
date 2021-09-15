@@ -48,7 +48,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: var(--red);
+  background: #f83038;
 }
 .logo {
   max-width: 80px;
