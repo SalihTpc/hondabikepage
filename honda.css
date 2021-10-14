@@ -103,7 +103,8 @@ header {
   letter-spacing: 4px;
 }
 .bike {
-  max-width: 45%;
+  max-width: 50%;
+  position: relative;
 }
 .footer {
   position: absolute;
@@ -113,6 +114,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  z-index: 10;
 }
 .sci {
   display: flex;
